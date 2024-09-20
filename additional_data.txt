@@ -1,0 +1,20 @@
+Religion: Muslim
+Category: General
+Income: <1,50,000
+Education: Non-Graduate
+Occupation: Salaried
+Phone : 03366664942
+Cnic: 3740584267453
+Senior Citizen: No
+Existing Account: Yes
+
+Religion: Muslim
+Category: OBC
+Income: <2,50,000
+Education: Post-Graduate
+Occupation: Business
+Phone : 787878
+Cnic: 78789
+Senior Citizen: Yes
+Existing Account: Yes
+
